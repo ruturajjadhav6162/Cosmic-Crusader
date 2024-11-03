@@ -22,7 +22,7 @@ public class GamePanel extends JPanel {
         setPanelSize();
         addKeyListener(new keyboardinputs(this)); //method used to get the keyboard inputs from input package
         addMouseListener(mouse);
-        addMouseMotionListener(mouse);`
+        addMouseMotionListener(mouse);
 
 
     }

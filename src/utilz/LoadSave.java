@@ -644,7 +644,7 @@ public class LoadSave {
     }
     public static BufferedImage GetBossWalkL() {
         BufferedImage bhbl=null;
-        InputStream bhbcl = LoadSave.class.getResourceAsStream("/BossSprites/BossWalkL.png");
+        InputStream bhbcl = LoadSave.class.getResourceAsStream("/BossSprites/bossWalkL.png");
         try {
             bhbl = ImageIO.read(bhbcl);
         } catch (IOException e) {

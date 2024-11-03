@@ -17,7 +17,6 @@ public class Game implements Runnable {
     private Thread gameThread;
     private Playing playing;
     private GameMenu menu;
-    private Main gamepan;
 //    private Herolvl1 hero1;
 //    private LevelManager levelManager;
     private final int FPS_SET=120;
@@ -51,7 +50,7 @@ public class Game implements Runnable {
     }
 
     public void startGameLoop(){
-        gameThread=new Thread( this);
+        gameThread=new Thread(this);
         gameThread.start();
     }
     private void update() {
