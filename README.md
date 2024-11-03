@@ -41,3 +41,7 @@ java -jar cosmic_crusader.jar
 - **F**: Kick
 - **Space**: Jump
 
+
+![alt text](<Screenshot 2024-11-03 190907.png>)
+
+![alt text](image.png)
