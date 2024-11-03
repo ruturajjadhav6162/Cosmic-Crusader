@@ -1,6 +1,6 @@
 # Cosmic Crusader
 
-Welcome to the Cosmic Crusader repository! This project is a Java application packaged as a JAR file. Follow the instructions below to clone the repository and run the application.
+Welcome to the Cosmic Crusader repository! This project is a 2D platformer game developed in Java, packaged as a JAR file. Follow the instructions below to clone the repository and run the application.
 
 ## Prerequisites
 
@@ -32,3 +32,12 @@ Once you are in the project directory, you can run the JAR file with the followi
 ```bash
 java -jar cosmic_crusader.jar
 ```
+
+## Game Controls
+
+- **A**: Move Left
+- **D**: Move Right
+- **G**: Throw Fireball (hold to charge for a full fireball)
+- **F**: Kick
+- **Space**: Jump
+

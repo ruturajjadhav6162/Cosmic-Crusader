@@ -22,7 +22,7 @@ public class Game implements Runnable {
     private final int FPS_SET=120;
     private final int UPS_SET=250;
     public static final int TILES_DEFAULT=32;
-    public static final float SCALE=1.8f; //will decide how much we want to scale everything
+    public static final float SCALE=1.3f; //will decide how much we want to scale everything
     public static final int TILES_IN_WIDTH=26;
     public static final int TILES_IN_HEIGHT=14;
     public static final int TILES_SIZE=(int)(TILES_DEFAULT*SCALE);
